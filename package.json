@@ -1,0 +1,21 @@
+{
+  "name": "rkar-website",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Running build script ...\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roope-kar/rkar-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roope-kar/rkar-website/issues"
+  },
+  "homepage": "https://github.com/roope-kar/rkar-website#readme"
+}
